@@ -123,11 +123,6 @@ form button:hover {
   padding: 0rem 0.5rem;
 }
 
-.fa-trash,
-.fa-check {
-  pointer-events: none;
-}
-
 .fall {
   transform: translateY(10rem) rotateZ(20deg);
   opacity: 0;
